@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-todolist/static/css/main.e4833d58.chunk.css",
+    "main.js": "/react-todolist/static/js/main.3547a6bc.chunk.js",
+    "main.js.map": "/react-todolist/static/js/main.3547a6bc.chunk.js.map",
+    "runtime-main.js": "/react-todolist/static/js/runtime-main.324cd047.js",
+    "runtime-main.js.map": "/react-todolist/static/js/runtime-main.324cd047.js.map",
+    "static/js/2.c6b53d6d.chunk.js": "/react-todolist/static/js/2.c6b53d6d.chunk.js",
+    "static/js/2.c6b53d6d.chunk.js.map": "/react-todolist/static/js/2.c6b53d6d.chunk.js.map",
+    "index.html": "/react-todolist/index.html",
+    "precache-manifest.a39f33b7be4aca9baee69690848442a2.js": "/react-todolist/precache-manifest.a39f33b7be4aca9baee69690848442a2.js",
+    "service-worker.js": "/react-todolist/service-worker.js",
+    "static/css/main.e4833d58.chunk.css.map": "/react-todolist/static/css/main.e4833d58.chunk.css.map",
+    "static/js/2.c6b53d6d.chunk.js.LICENSE.txt": "/react-todolist/static/js/2.c6b53d6d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-todolist/static/media/traveling-doodle.dc8e4e72.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.324cd047.js",
+    "static/js/2.c6b53d6d.chunk.js",
+    "static/css/main.e4833d58.chunk.css",
+    "static/js/main.3547a6bc.chunk.js"
+  ]
+}
